@@ -20,6 +20,9 @@
         Chi tiết sản phẩm:
         <textarea name="content"></textarea> <br />
 
+{{--        Nhập abc:--}}
+{{--        <input type="text" name="abcdefefeerf" value="" /> <br />--}}
+
         <input type="submit" name="submit" value="Lưu" />
     </form>
 @endsection

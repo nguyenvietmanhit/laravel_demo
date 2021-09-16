@@ -64,4 +64,5 @@
  * - Tạo controller quản lý sản phẩm, tên bắt buộc phải theo form sau: ProductController
  * -> cần tạo controller chuẩn Laravel -> dùng artisan để tạo controller
  * php artisan make:controller ProductController
+ * http://localhost/laravel_demo/public/product/create
  */
