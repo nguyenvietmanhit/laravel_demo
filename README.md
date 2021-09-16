@@ -1,5 +1,5 @@
 
-##Các bước cấu hình để chạy Laravel từ Git có sẵn
+## Các bước cấu hình để chạy Laravel từ Git có sẵn
 #### Clone project về máy
 #### Sử dụng lệnh cd vào project laravel_demo
 #### Chạy lần lượt các command line sau:
